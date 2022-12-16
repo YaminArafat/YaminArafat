@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YaminArafat
 - 👀 I’m interested in Android Developing
 - 🌱 I’m currently learning Kotlin Android Development
-- 📫 Reach me linkedin.com/in/yamin-arafat/
+- 📫 Reach me www.linkedin.com/in/yamin-arafat/
 
 <!---
 YaminArafat/YaminArafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
