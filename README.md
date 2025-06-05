@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @YaminArafat
-- 👀 I’m interested in Android Developing
-- 🌱 I’m currently learning Kotlin Android Development
 - 📫 Reach me https://www.linkedin.com/in/yamin-arafat/
 
 <!---
